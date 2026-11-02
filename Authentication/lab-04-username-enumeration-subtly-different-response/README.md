@@ -39,7 +39,7 @@ In this lab, a minor difference in the login error message helped identify a val
 
 ### Lab Completion
 
-![Lab solved confirmation](./evidence/ls-authentication-2.png)
+![Lab solved confirmation](./evidence/ls-authentication-4.png)
 
 ## Impact
 
