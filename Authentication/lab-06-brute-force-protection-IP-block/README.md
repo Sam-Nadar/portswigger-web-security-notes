@@ -81,5 +81,5 @@ for pwd in lines:
 
 ## References
 
-- [PortSwigger: Broken Brute-Force Protection, IP Block](https://portswigger.net/web-security/authentication/password-based/lab-broken-brute-force-protection-ip-block)
+- [PortSwigger: Broken Brute-Force Protection, IP Block](https://portswigger.net/web-security/authentication/password-based/lab-broken-bruteforce-protection-ip-block)
 - [OWASP: Authentication Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
