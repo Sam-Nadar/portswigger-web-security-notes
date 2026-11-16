@@ -3,7 +3,7 @@
 ## Lab Information
 - **Platform:** PortSwigger Web Security Academy
 - **Category:** Authentication
-- **Difficulty:** Apprentice
+- **Difficulty:** Practitioner
 - **Status:** Solved
 - **Tools:** Burp Suite Proxy, Burp Suite Intruder
 

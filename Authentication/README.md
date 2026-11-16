@@ -8,6 +8,7 @@ Practical authentication security labs completed through [PortSwigger Web Securi
 | Lab | Difficulty | Status |
 |---|---|---|
 | [Username Enumeration via Different Responses](./lab-01-username-enumeration-different-responses/README.md) | Apprentice | Solved |
+| [2FA simple bypass](./Authentication/lab-02-2FA-simple-bypass/README.md) | Apprentice | Solved |
 
 ## Disclaimer
 
