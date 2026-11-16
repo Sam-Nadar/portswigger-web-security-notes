@@ -4,7 +4,7 @@
 
 - **Platform:** PortSwigger Web Security Academy
 - **Category:** Authentication
-- **Difficulty:** Practitioner
+- **Difficulty:** Apprentice
 - **Status:** Solved
 - **Tools:** Burp Suite Proxy, Burp Suite Repeater, Browser
 
