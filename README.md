@@ -11,7 +11,7 @@ and learn how to prevent security issues.
 
 ## Topics
 - [SQL Injection](./SQL-Injection/README.md) — In progress
-- Authentication — In progress
+- [Authentication](./Authentication/README.md) — Completed
 
 ## Tools
 
