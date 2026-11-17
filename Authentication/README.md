@@ -19,8 +19,8 @@ Practical authentication security labs completed through [PortSwigger Web Securi
 | [Offline password cracking](./lab-10-offline-password-cracking/README.md) | Practitioner | Solved |
 | [Password reset poisoning via middleware](./lab-11-password-reset-poisoning-via-middleware/README.md) | Practitioner | Solved |
 | [Password brute-force via password change](./lab-12-password-brute-force-via-password-change/README.md) | Practitioner | Solved |
-| [Broken brute-force protection, multiple credentials per request](./lab-13-broken-brute-force-protection-multiple-credentials-per-request/README.md) | Practitioner | Solved |
-| [2FA bypass using a brute-force attack](./lab-14-2FA-bypass-using-brute-force-attack/README.md) | Practitioner | Solved |
+| [Broken brute-force protection, multiple credentials per request](./lab-13-broken-brute-force-protection-multiple-credentials-per-request/README.md) | Expert | Solved |
+| [2FA bypass using a brute-force attack](./lab-14-2FA-bypass-using-brute-force-attack/README.md) | Expert | Solved |
 
 ## Disclaimer
 
