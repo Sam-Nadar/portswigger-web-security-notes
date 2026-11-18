@@ -1,4 +1,4 @@
-    # Cross-Site Scripting (XSS): Reflected XSS into HTML Context with Nothing Encoded
+# Cross-Site Scripting (XSS): Reflected XSS into HTML Context with Nothing Encoded
 
 ## Lab Information
 
