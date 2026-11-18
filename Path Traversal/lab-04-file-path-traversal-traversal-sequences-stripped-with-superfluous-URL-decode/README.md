@@ -4,7 +4,7 @@
 
 - **Platform:** PortSwigger Web Security Academy
 - **Category:** Path Traversal
-- **Difficulty:** Apprentice
+- **Difficulty:** Practitioner
 - **Status:** Solved
 - **Tools:** Burp Suite Proxy
 
