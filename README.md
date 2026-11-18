@@ -12,7 +12,7 @@ and learn how to prevent security issues.
 ## Topics
 - [SQL Injection](./SQL-Injection/README.md) — In progress
 - [Authentication](./Authentication/README.md) — Completed
-
+- [Path Traversal](./Path%20Traversal/README.md) — Completed
 ## Tools
 
 - Burp Suite Community Edition
