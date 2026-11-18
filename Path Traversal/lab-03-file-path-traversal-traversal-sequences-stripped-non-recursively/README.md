@@ -40,7 +40,7 @@ In this lab, the application attempted to prevent directory traversal by strippi
 
 **### Lab Completion**
 
-![Lab solved confirmation](./evidence/ls-path-traversal-stripped-non-recursively.png)
+![Lab solved confirmation](./evidence/ls-path-traversal-03.png)
 
 ## Impact
 
