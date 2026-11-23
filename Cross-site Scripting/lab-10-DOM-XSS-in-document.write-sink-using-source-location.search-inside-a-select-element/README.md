@@ -4,7 +4,7 @@
 
 - **Platform:** PortSwigger Web Security Academy
 - **Category:** Cross-Site Scripting (XSS)
-- **Difficulty:** Apprentice
+- **Difficulty:** Practitioner
 - **Status:** Solved
 - **Tools:** Web Browser, Browser Developer Tools
 
